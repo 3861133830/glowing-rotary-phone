@@ -1,6 +1,12 @@
 # glowing-rotary-phone
-#Weicome to my homepage!
-##I'm a freshman from Guangdong University of Petrochemical Technology.
-##I like singing,watching animation and tasting the food.
-##I'm studying python at present.
-#Hope that we can make progress together！
+
+Welcome to my homepage!
+
+## About me
+I'm a freshman at Guangdong University of Petrochemical Technology. I enjoy singing, watching animation, and tasting different foods.
+
+## Currently
+I'm studying Python at the moment.
+
+## Goals
+I hope that we can make progress together!
