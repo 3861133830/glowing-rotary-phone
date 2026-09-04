@@ -1,12 +1,12 @@
-# glowing-rotary-phone
+#发光旋转电话
 
-Welcome to my homepage!
+欢迎来到我的主页！
 
-## About me
-I'm a freshman at Guangdong University of Petrochemical Technology. I enjoy singing, watching animation, and tasting different foods.
+##关于我
+我是广东石油化工大学的大一新生。我喜欢唱歌、看动画和品尝不同的食物。
 
-## Currently
-I'm studying Python at the moment.
+##目前
+我目前正在学习Python（Python）。
 
-## Goals
-I hope that we can make progress together!
+##目标
+希望我们能一起进步！
