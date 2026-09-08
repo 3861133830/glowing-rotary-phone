@@ -1,12 +1,12 @@
-#glowing-rotary-phone
+# glowing-rotary-phone
 
 Welcome to my home page!
 
-##About me
+## About me
 Hope that we can make progress together!
 
-##At present
-I'm studying python（python）
+## At present
+I'm studying python (python)
 
-##Goal
+## Goal
 Hope that we can make progress together!
